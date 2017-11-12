@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EnterName">Enter Name</string>
+    <string name="EnterNumber">Enter Email</string>
+    <string name="EnterEmail">Enter Number</string>
+    <string name="Buttonsave">Save</string>
+</resources>

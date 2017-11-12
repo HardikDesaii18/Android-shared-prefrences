@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPrefrencesDemo</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="EnterNumber">Enter Email</string>
+    <string name="EnterEmail">Enter Number</string>
+    <string name="Buttonsave">Save</string>
+</resources>
